@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
 				Toast.makeText(this,"Fusha e emrit nuk mund te jete bosh",Toast.LENGTH_LONG).show()
 			}else{
 				val i= Intent(this,QuestionActivity::class.java)
+				i.putExtra(Constants.USER,text_name.text.toString())
 				startActivity(i)
 				finish()
 			}

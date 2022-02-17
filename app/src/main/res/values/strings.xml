@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Age In Minute App</string>
     <string name="imazhi_i_vendit">Imazhi i vendit</string>
+    <string name="todo">TODO</string>
+    <string name="result">Result</string>
+    <string name="art">Art</string>
+    <string name="you_guessed_9_out_of_9_questions_correct">You guessed 9 out of 9 questions correct</string>
+    <string name="finished">Finished</string>
+    <string name="hey_congratulations">Hey, Congratulations</string>
 </resources>
